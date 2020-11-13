@@ -84,7 +84,7 @@ def div():
 	check(answer, a)
 	prob += 1
 
-print("Amy's Flashy Cards v.4.0")
+print("FlashyCards v.4.0\nBy: Marco Salsiccia")
 
 while True:
 	print("""
